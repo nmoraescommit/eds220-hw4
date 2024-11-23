@@ -1,7 +1,7 @@
 # EDS 220 - Assignment 4, Task 2
 
 ## Purpose
-The purpose of this project is to visualize the impact of wildfires and fire burn scars through false color imagery. The project, focuses on the Thomas Fire (2017) which burned in Ventura and Santa Barbara counties, and seeks to create a final output of a visualization of the Thomas Fire burn scars. Through data visualization and exploration, in this project, we can obtain a better understaning of the processes of true and false color imaging, xarray.DataSet exploration, and environmental geospatial modelling.
+The purpose of this project is to visualize the impact of wildfires and fire burn scars through false color imagery. The project, focuses on the Thomas Fire (2017) which burned in Ventura and Santa Barbara counties, and seeks to create a final output of a visualization of the Thomas Fire burn scars. Through data visualization and exploration, in this project, we can obtain a better understanding of the processes of true and false color imaging, xarray.DataSet exploration, and environmental geospatial modelling.
 
 ## Repository Setup
 This repository contains two notebooks, `hwk2-task4-fire-perimeter-MORAES.ipynb` and `hwk4-task2-false-color-MORAES.ipynb`. The former cleans and creates a GeoJSON file indicating the Thomas Fire Perimeter and the latter creates a false colour map overlaying the perimeter on an image of Santa Barbara County. In the '.gitignore', is the data folder as well as .ipynb_checkpoints.
